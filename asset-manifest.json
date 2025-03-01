@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.cd01bb13.css",
+    "main.js": "/myapp/static/js/main.dc7ddad9.js",
+    "static/media/Demo.mp4": "/myapp/static/media/Demo.31b74d1934dda017c9da.mp4",
+    "static/media/ra.png": "/myapp/static/media/ra.9506c829d885d0fbb806.png",
+    "static/media/LINUX.png": "/myapp/static/media/LINUX.4d79b6a1a92b3c6db2a1.png",
+    "static/media/saud2.pdf": "/myapp/static/media/saud2.9b17dd72b7bf7039dce4.pdf",
+    "static/media/saud (4).pdf": "/myapp/static/media/saud (4).b21b12c208f4f42bb283.pdf",
+    "static/media/react.png": "/myapp/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/python.png": "/myapp/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/elephant.png": "/myapp/static/media/elephant.137221a503722cacd056.png",
+    "static/media/github.png": "/myapp/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/myapp/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/myapp/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/myapp/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/myapp/index.html",
+    "main.cd01bb13.css.map": "/myapp/static/css/main.cd01bb13.css.map",
+    "main.dc7ddad9.js.map": "/myapp/static/js/main.dc7ddad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd01bb13.css",
+    "static/js/main.dc7ddad9.js"
+  ]
+}
