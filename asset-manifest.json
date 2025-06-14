@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/myapp/static/css/main.fc7aadf0.css",
-    "main.js": "/myapp/static/js/main.e4004443.js",
+    "main.js": "/myapp/static/js/main.d1e1180f.js",
     "static/media/Demo.mp4": "/myapp/static/media/Demo.31b74d1934dda017c9da.mp4",
     "static/media/l.png": "/myapp/static/media/l.ad77c40c8530e6726abb.png",
     "static/media/ra.png": "/myapp/static/media/ra.9506c829d885d0fbb806.png",
-    "static/media/SAUD R.pdf": "/myapp/static/media/SAUD R.c03ef27650491dcaf14e.pdf",
+    "static/media/saud.pdf": "/myapp/static/media/saud.e0ddcf47bc14c35284a2.pdf",
     "static/media/react.png": "/myapp/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/python.png": "/myapp/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/elephant.png": "/myapp/static/media/elephant.137221a503722cacd056.png",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/myapp/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/myapp/index.html",
     "main.fc7aadf0.css.map": "/myapp/static/css/main.fc7aadf0.css.map",
-    "main.e4004443.js.map": "/myapp/static/js/main.e4004443.js.map"
+    "main.d1e1180f.js.map": "/myapp/static/js/main.d1e1180f.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7aadf0.css",
-    "static/js/main.e4004443.js"
+    "static/js/main.d1e1180f.js"
   ]
 }
